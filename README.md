@@ -1,4 +1,5 @@
-# Designed to look productive.
+# Broken and too lazy to fix
+## Designed to look productive.
 ### Features
 
 - Set a cooldown between commits
